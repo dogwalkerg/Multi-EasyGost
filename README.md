@@ -18,7 +18,8 @@
 *  <br> `wget --no-check-certificate -O gostmy.sh https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/master/gostmy.sh && chmod +x gostmy.sh && ./gostmy.sh`
    <br>`bash <(curl -sL [https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/master/gostmy.sh](https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/refs/heads/master/gost/gost.sh))`
    <br>`wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/refs/heads/master/gost/gost.sh && chmod +x gost.sh && ./gost.sh`
-   <br>`bash <(curl -sL https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/master/gost)` 
+   <br>`bash <(curl -sL https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/master/gost)`
+   <br>`bash <(curl -sL https://sh.520me.us.kg/gost)`
 ## 功能
 
 ### 原脚本功能
