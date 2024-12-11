@@ -16,7 +16,7 @@
   `wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
 * 再次运行本脚本只需要输入`./gost.sh`回车即可  
  <br> `wget --no-check-certificate -O gostmy.sh https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/master/gostmy.sh && chmod +x gostmy.sh && ./gostmy.sh`
-  <br>`bash <(curl -sL [kejilion.sh](https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/master/gostmy.sh)`
+  <br>`bash <(curl -sL https://raw.githubusercontent.com/dogwalkerg/Multi-EasyGost/master/gostmy.sh)`
 ## 功能
 
 ### 原脚本功能
